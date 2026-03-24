@@ -29,6 +29,11 @@ RT CarMenu is designed to provide a **clean and modern interface** for vehicle i
 
 ---
 
+## ⚠️ Requirements
+- Requires **ox_lib** to function properly  
+
+---
+
 ## ⚙️ Customization
 You can customize the menu in the `config` file:
 
@@ -43,15 +48,16 @@ Make it match your server style perfectly.
 ## 📦 Installation
 1. Download or clone this repository  
 2. Add the resource to your `resources` folder  
-3. Configure settings as needed  
-4. Start/restart your server  
+3. Make sure you have **ox_lib installed**  
+4. Configure settings as needed  
+5. Start/restart your server  
 
 ---
 
 ## 🆘 Need Help?
 If you need help with setup or customization:
 
-💬 **[Join our Discord](https://discord.gg/9TSsFfDYu5)**   
+💬 **[Join our Discord](https://discord.gg/9TSsFfDYu5)**  
 
 ---
 
